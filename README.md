@@ -1,5 +1,5 @@
 🚀 90 Days of JavaScript Challenge
-Welcome to my 90-day coding journey! 🎯 In this GitHub repository, I'll be solving JavaScript-related problems daily and documenting everything I learn along the way.
+Welcome to my 90-day coding journey! 🎯 In this GitHub repository, I'll be solving problems related to Javascript, MySQL, ReactJs and NodeJs daily and documenting everything I learn along the way.
 
 📅 Day 1 - April 1st: Mastering JavaScript Arrays
 To kick off this challenge, I'll start with the fundamentals of arrays and tackle 50 beginner to intermediate-level questions from GeeksforGeeks. This will help build a strong foundation for problem-solving in JavaScript.
